@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="16.7dp"
+    android:background="#F27049">
+
+    <LinearLayout
+        android:layout_width="22dp"
+        android:layout_height="85dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:paddingTop="10.7dp"
+        android:paddingBottom="13.7dp">
+
+        <TextView
+            android:layout_width="376dp"
+            android:layout_height="63dp"
+            android:layout_marginBottom="16dp"
+            android:gravity="center"
+            android:text="  新冠医疗平台"
+            android:textColor="@color/white"
+            android:textSize="30sp" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
